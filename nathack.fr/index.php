@@ -2,7 +2,7 @@
 
 <html>
   <head>
-    <title>Nathack.FR</title>
+    <title>Nathack</title>
 
     <link href="https://fonts.googleapis.com/css?family=Ubuntu+Mono&display=swap" rel="stylesheet">
     <link href="css/terminal.css?<?php echo time();?>" rel="stylesheet" />
