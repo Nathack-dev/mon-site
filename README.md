@@ -36,7 +36,7 @@ $(document).ready(ready);
 le premier argument passé à toute fonction de commande est une liste d'arguments donnée par l'utilisateur. Elle est séparée par des espaces mais ignore les guillemets.
 Par exemple : `mycommand there are "some arguments" 'to pass'` donnerait `there, are, some arguments, to pass`.
 
-### 📚 Fonctions utiles 
+## 📚 Fonctions utiles 
 
 ▶️ `terminalPrint` est une fonction d'impression simple. Le premier argument est le message à imprimer, et le deuxième argument facultatif est un booléen qui, s'il est vrai, ajoute un saut de ligne à la fin. Par défaut, cette valeur est vraie.
 
