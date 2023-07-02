@@ -1,3 +1,9 @@
+> **Warning**  
+> **The license of this repository has
+> been changed to [MIT](LICENSE)** so you can use any part of this code for
+> your own projects without strict restrictions.
+
+
 ## 🌠 Terminal Web
 
 Il s'agit d'un terminal web basique basé sur Ubuntu qui me sert de portfolio interactif.
