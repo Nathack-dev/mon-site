@@ -1,7 +1,6 @@
 > **Warning**  
-> **The license of this repository has
-> been changed to [MIT](LICENSE)** so you can use any part of this code for
-> your own projects without strict restrictions.
+> J'ai décider de changer mon site pour quelque chose de plus simple et moderne, néansmoins, je laisse le code source.
+> **La licence de ce git a été modifiée en [MIT](LICENSE)** afin que vous puissiez utiliser n'importe quelle partie de ce code pour vos propres projets sans restrictions particulière.
 
 
 ## 🌠 Terminal Web
