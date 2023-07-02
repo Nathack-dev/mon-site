@@ -1,5 +1,5 @@
-> **Warning**  
-> J'ai décider de changer mon site pour quelque chose de plus simple et moderne, néansmoins, je laisse le code source.
+## > **Warning**  
+> J'ai décider de compétement changer de style de site :
 > **La licence de ce git a été modifiée en [MIT](LICENSE)** afin que vous puissiez utiliser n'importe quelle partie de ce code pour vos propres projets sans restrictions particulière.
 
 
